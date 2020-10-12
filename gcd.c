@@ -8,7 +8,7 @@ int main(){
 
     do{
         system("cls");
-        printf("======= Greatest common divisor =======\n\n");
+        printf("======= Greatest Common Divisor =======\n\n");
         printf("Value A: ");
         scanf("%i", &numberA);
         printf("Value B: ");
