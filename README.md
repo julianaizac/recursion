@@ -2,7 +2,7 @@
 
 [🧮 Exponentiation](https://github.com/julianaizac/recursion/blob/main/exponentiation.c)
 
-[❗️ Factorial](https://github.com/julianaizac/recursion/blob/main/factorial.c)
+[ ❗️ Factorial](https://github.com/julianaizac/recursion/blob/main/factorial.c)
 
 [🔎 Greatest common divisor](https://github.com/julianaizac/recursion/blob/main/gcd.c)
 
